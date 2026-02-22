@@ -11,7 +11,7 @@ This project demonstrates UI design skills, component architecture, responsive l
 👉 https://github.com/JejurkarYash/margam-labs-frontend-assigment.git
 
 ### **2. Live Deployment (Mandatory)**  
-👉 https://learnai-dashboard.vercel.app/ *(replace with your actual Vercel link)*
+👉 (https://margam-labs-frontend-assigment.vercel.app/)
 
 ---
 
@@ -117,10 +117,3 @@ Ensuring sidebar, topbar, and course card remained reusable and consistent acros
 
 ---
 
-## 🚀 Running Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/learnai-dashboard
-cd learnai-dashboard
-npm install
-npm run dev
